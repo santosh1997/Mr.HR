@@ -1,0 +1,21 @@
+{
+  "name": "woxapi",
+  "version": "1.0.0",
+  "description": "Backend API for woxbridge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santosh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.4.1",
+    "nodemon": "^1.13.3",
+    "random-number": "0.0.9",
+    "watson-developer-cloud": "^3.4.0"
+  }
+}
