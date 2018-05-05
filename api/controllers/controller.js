@@ -2,8 +2,8 @@ var con = require('./db');
 var ToneAnalyzerV3 = require('watson-developer-cloud/tone-analyzer/v3');
 var toneAnalyzerV3 = new ToneAnalyzerV3({
   version: '2017-09-21',
-  username: '95ac322b-d6f4-4b9e-b461-dae0e30e3b82',
-  password: '36IJZmRTilsA'
+  username: '*************************',
+  password: '*************************'
 });
 
 		
